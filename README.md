@@ -15,7 +15,7 @@ namespace Csaalvador
         {
             Console.WriteLine("Olá, eu sou Cauã!");
             Console.WriteLine("Estou estudando programação e desenvolvimento web.");
-            Console.WriteLine("Atualmente estou estudando C#, PHP, MySQL e JavaScript.");
+            Console.WriteLine("Atualmente estou estudando focado em front-end");
         }
     }
 }
