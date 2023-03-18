@@ -1,4 +1,5 @@
- <div style="text-align: center;">
+
+  <div style="text-align: center;">
 
 ### Prazer! 🥷
 
@@ -38,6 +39,51 @@ namespace Csaalvador
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="22">
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="22">
 
+
+
+#### Carregando perfil... 
+
+
+
+
+<div class="loading">
 </div>
 
 </div>
+
+</div>
+
+<style>
+
+.loading {
+  border: 16px solid #f3f3f3;
+  border-top: 16px solid #3498db;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+  </style>
+
+<script>
+
+const loading = document.querySelector('.loading');
+
+loading.style.display = 'block';
+
+loading.style.display = 'none';
+
+  </script>
+
+<
+
+<!--Sou estudante de programação e desenvolvimento web, e estou sempre em busca de aprender mais e me desenvolver como profissional. Atualmente, estou focado em aprimorar minhas habilidades em C#, PHP, MySQL e JavaScript.
+
+-->
+
