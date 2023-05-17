@@ -1,59 +1,21 @@
+<h1 align="center">Hi 👋, I'm Cauã Salvador</h1>
+<h3 align="center">A passionate backend developer from Brazil</h3>
 
-  <div style="text-align: center;">
+🔭 I am currently studying and ready for the **job market**
 
-### Prazer! 🥷
+- 🌱 I’m currently learning **Vue js 2 and improving JavaScript**
 
+- 👨‍💻 My real projects will be posted **soon!**
 
-```csharp
-using System;
+- 💬 Teach me something about **front-end!**
 
-namespace Csaalvador
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Olá, eu sou Cauã!");
-            Console.WriteLine("No momento, estou estudando lógica com o IFSP, e front-end autodidata.");
-            Console.WriteLine("foco de carreira como dev front-end");
-        }
-    }
-}
+- 📫 How to reach me **caua.salvador.dev@gmail.com**
 
-```
-  
-   <div align="center">
-  <a href="#"
-    >
-  <a href="#"
-    ><img
-      height="30%"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=csaalvador&layout=compact&langs_count=7&theme=dracula"
->
-      <br>
-   
-### 📫Contato
-<img href="www.uol.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="22">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="22">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="22">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="22">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/Csalvador__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter: Cauã Salvador" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/csaalvador-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin - Cauã Salvador" height="30" width="40" /></a>
+</p>
 
-### 🚀 Tecnologias
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="22">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="22">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" height="22">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="22">
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="22">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="22">
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="22">
-
-
-
-#### Construindo perfil... 
-
-
-
-<!--Sou estudante de programação e desenvolvimento web, e estou sempre em busca de aprender mais e me desenvolver como profissional. Atualmente, estou focado em aprimorar minhas habilidades em C#, PHP, MySQL e JavaScript.
-
--->
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
