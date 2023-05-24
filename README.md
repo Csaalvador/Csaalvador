@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Times&color=D9B700&size=30&center=true&vCenter=true&width=600&height=60&lines=Hi+there!+I'm+Cau%C3%A3;A+passionate+frontend+developer+from+Brazil" />
 </p>
 
-🔭 **I am currently studying and ready for the **job market**__
+🔭 **I am currently studying and ready for the job market**__
 
 🌱 *I’m currently learning **Vue js 2 and improving JavaScript**
 
