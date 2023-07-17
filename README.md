@@ -6,13 +6,13 @@
 
 🔭 **I am currently studying and ready for the job market**
 
-🌱 **I’m currently learning Vue js 2 and improving JavaScript**
+🌱 **I’m currently learning React and improving JavaScript**
 
 👨‍💻 **My real projects will be posted soon!**
 
 💬 **Teach me something about front-end!**
 
-📫 **How to reach me caua.salvador.dev@gmail.com**
+📫 **How to reach me caua.salvador.dev.contact@gmail.com**
 
 ---
 
