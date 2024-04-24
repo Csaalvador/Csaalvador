@@ -6,13 +6,9 @@
 
 🔭 **I am currently studying and ready for the job market**
 
-🌱 **I’m currently learning React and improving JavaScript**
-
 👨‍💻 **My real projects will be posted soon!**
 
-💬 **Teach me something about front-end!**
-
-📫 **How to reach me caua.salvador.dev.contact@gmail.com**
+📫 **How to reach me caua.salvador.dev@gmail.com**
 
 ---
 
@@ -27,7 +23,6 @@
 <p align="left">
   <a href="html5.org" target="__blank" rel="noroferrer"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="40" height="40"/> </a>
   <a href="css3.com" target="__blank" rel="noroferrer"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="CSS3" width="40" height="40"/> </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
   <a href="javasript.com" target="__blank" rel="noroferrer"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="Javascript" width="40" height="40"/> </a>
   <a href="vuejs.com" target="__blank" rel="noroferrer"> <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="Vue js 2" width="40" height="40"/> </a>
   <a href="Visualstudio.com" target="__blank" rel="noroferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="Vscode" width="40" height="40"/> </a>
