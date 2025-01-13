@@ -1,23 +1,21 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9B700&height=120&section=header&animation=fadeIn"/>
+<div align="center">
+  <img height="200" src="https://th.bing.com/th/id/R.1436be0ac9d04fca9fccc4a5373f5d8f?rik=X%2bl%2bVf0dqYhDOw&riu=http%3a%2f%2f1.bp.blogspot.com%2f-RUacFE3owfo%2fUcumlV4-goI%2fAAAAAAAAAjY%2fhfGwNTPVcr0%2fs1600%2fsasuke%2bAmaterasu.gif&ehk=6o0hJz6%2bMbcHK6HOHINuKVKLMyr%2bt6J8uhY09zXB1Vg%3d&risl=&pid=ImgRaw&r=0"  />
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Times&color=D9B700&size=30&center=true&vCenter=true&width=600&height=60&lines=Hi+there!+I'm+Cau%C3%A3👋;I'm+19+years+old%F0%9F%A5%B7;A+passionate+frontend+developer+from+Brazil🔥"/>
-</p>
+###
 
-🔭 **I am currently studying and ready for the job market**
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
 
-👨‍💻 **My real projects will be posted soon!**
+###
 
-📫 **How to reach me caua.salvador.dev@gmail.com**
+<img src="https://raw.githubusercontent.com/Csaalvador/Csaalvador/output/snake.svg" alt="Snake animation" />
 
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/Csalvador__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter: Cauã Salvador" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/csaalvador-dev
-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin - Cauã Salvador" height="30" width="40" /></a>
-</p>
-  
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9B700&height=120&section=footer"/>
+###
