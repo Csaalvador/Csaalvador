@@ -16,6 +16,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Csaalvador/Csaalvador/output/snake.svg" alt="Snake animation" />
-
 ###
