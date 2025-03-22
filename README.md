@@ -59,4 +59,4 @@ Olá! Meu nome é **Cauã**, sou um **desenvolvedor de software** e eterno estud
 ---
 
 📫 **Vamos nos conectar?**<br/>
-🔗 [LinkedIn](#https://www.linkedin.com/in/csaalvador-dev/) | 🐦 [Twitter](#) | 📧 [Email](#)
+🔗 [LinkedIn](https://www.linkedin.com/in/csaalvador-dev/) | 🐦 [Twitter](#) | 📧 [Email](#)
