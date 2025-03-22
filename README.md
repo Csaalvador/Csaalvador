@@ -6,7 +6,7 @@
 
 ## Sobre mim
 Sou Cauã, desenvolvedor de software e estudante. <br />
-Tenho 19 anos e estou sempre em busca de melhorar minha atenção e aprendizado. Uso o Trello para organizar meus estudos e simular a experiência de trabalho em uma empresa.
+Tenho 20 anos e estou sempre em busca de melhorar minha atenção e aprendizado. Uso o Trello para organizar meus estudos e simular a experiência de trabalho em uma empresa.
 <br />
 
 ## O que me motiva
@@ -23,12 +23,12 @@ Tenho 19 anos e estou sempre em busca de melhorar minha atenção e aprendizado.
   <tr>
     <td align="center">
       <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ninzinhu&theme=dracula&utcOffset=-3" alt="GitHub Commits"/>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Csaalvador&theme=dracula&utcOffset=-3" alt="GitHub Commits"/>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ninzinhu&theme=dracula" alt="GitHub Details"/>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Csaalvador&theme=dracula" alt="GitHub Details"/>
       </a>
     </td>
   </tr>
@@ -39,7 +39,7 @@ Tenho 19 anos e estou sempre em busca de melhorar minha atenção e aprendizado.
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ninzinhu&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Csaalvador&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ## Tecnologias que utilizo:
@@ -54,19 +54,11 @@ Tenho 19 anos e estou sempre em busca de melhorar minha atenção e aprendizado.
 ###
 ##
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ninzinhu&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Csaalvador&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
 </div>
 
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-</div>
+
 
 ###
 
