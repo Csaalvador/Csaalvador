@@ -4,10 +4,6 @@
 
 ###
 
-<p align="center"> 
-  <img src="https://github.com/Ninzinhu/Ninzinhu/blob/main/kenshinhimura.gif">
-</p>
-
 ## Sobre mim
 Sou Cauã, desenvolvedor de software e estudante. <br />
 Tenho 19 anos e estou sempre em busca de melhorar minha atenção e aprendizado. Uso o Trello para organizar meus estudos e simular a experiência de trabalho em uma empresa.
