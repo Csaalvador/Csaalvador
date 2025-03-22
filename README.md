@@ -44,12 +44,14 @@ Tenho 19 anos e estou sempre em busca de melhorar minha atenção e aprendizado.
 
 ## Tecnologias que utilizo:
 <div align="center">
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,java,php,go,kotlin,react,nodejs,express,vue,docker,linux,postman,mongodb,postgres,swift" />
-</a>
-  <br />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
+###
 ##
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ninzinhu&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
