@@ -6,7 +6,11 @@
 
 # 🖥️ Sobre mim
 
-Olá! Meu nome é **Cauã**, sou um **desenvolvedor de software** e eterno estudante da tecnologia. Atualmente, estou focado em aprimorar minha atenção e aprendizado, utilizando metodologias ágeis e ferramentas como **Trello** para organizar meus estudos e simular a experiência de trabalho em equipe.
+ Estudante de Ciência de Dados com sólida dedicação ao aprendizado prático de Python e suas principais
+ bibliotecas para análise e manipulação de dados, como Pandas, NumPy, Matplotlib, BeautifulSoup e
+ Requests. Familiarizado com conceitos de ETL, Web Scraping, SQL, APIs e Visualização de Dados.
+ Busco uma oportunidade de estágio para aplicar e expandir meus conhecimentos técnicos, contribuindo
+ ativamente com a área de Dados em ambientes colaborativos e orientados à inovação.
 
 ---
 
